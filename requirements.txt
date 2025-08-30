@@ -3,3 +3,5 @@ requests
 Pillow
 face_recognition
 datetime
+opencv-python-headless
+
