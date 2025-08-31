@@ -1,7 +1,5 @@
+streamlit
 pandas
-requests
+numpy
 Pillow
-face_recognition
-datetime
-opencv-python-headless
-
+requests
